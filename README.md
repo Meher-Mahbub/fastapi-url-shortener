@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔗 FastAPI URL Shortener
 
 A simple URL shortener built using **FastAPI**, **SQLite**, and **SQLAlchemy**.
@@ -33,3 +34,6 @@ uvicorn main:app --reload
 
 
 
+=======
+# fastapi-url-shortener
+>>>>>>> c6e886bb75a9634a8f5df5953610022e6a7a5be8
